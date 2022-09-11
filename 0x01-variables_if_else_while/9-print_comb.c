@@ -14,7 +14,7 @@ putchar(c);
 if (c != 57)
 {
 putchar(',');
-putchat(' ');
+putchar(' ');
 }
 }
 putchar('\n');
