@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - print if the number is positive, zero or negative
  *
- * Description: p
+ * Description: using the main function
  * Return: 0
  */
 int main(void)
@@ -12,7 +12,7 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-for (ch = 'A' ; CH <= 'Z' ; ch++)
+for (ch = 'A' ; ch <= 'Z' ; ch++)
 {
 putchar(ch);
 }
